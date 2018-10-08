@@ -1,0 +1,5 @@
+development:
+  base_url: http://staging.example.com
+
+production:
+  base_url: http://api.example.com
