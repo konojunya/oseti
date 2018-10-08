@@ -2,7 +2,7 @@
   "name": "oseti",
   "version": "0.0.1",
   "description": "oseti is configuraton your program with NODE_ENV.",
-  "private": true,
+  "private": false,
   "main": "dist/index.js",
   "scripts": {
     "build": "webpack"
