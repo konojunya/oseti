@@ -26,9 +26,9 @@ Make config.yml as follows.
 
 ```yaml
 staging:
-  api_base_url: "https://staging.example.com"
+  api_base_url: https://staging.example.com
 production:
-  api_base_url: "https://api.example.com"
+  api_base_url: https://api.example.com
 ```
 
 To get the value using key we write:

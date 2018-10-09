@@ -1,6 +1,6 @@
 {
   "name": "oseti",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "oseti is configuraton your program with NODE_ENV.",
   "private": false,
   "main": "./lib/main.js",
