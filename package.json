@@ -1,9 +1,10 @@
 {
   "name": "oseti",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "oseti is configuraton your program with NODE_ENV.",
   "private": false,
   "main": "./lib/main.js",
+  "browser": "./lib/main.client.js",
   "scripts": {
     "build": "webpack"
   },
